@@ -1,17 +1,17 @@
-Shokhzod Samariddinov, [26.09.2023 11:10]
+
 # importing libraries
 import pygame
 import time
 import random
 
-snake_speed = 15
+snake_speed = 10
 
 # Window size
-window_x = 720
-window_y = 480
+window_x = 980
+window_y = 780
 
 # defining colors
-black = pygame.Color(0, 0, 0)
+black = pygame.Color(3, 1, 2)
 white = pygame.Color(255, 255, 255)
 red = pygame.Color(255, 0, 0)
 green = pygame.Color(0, 255, 0)
